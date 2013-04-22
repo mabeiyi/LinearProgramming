@@ -5,7 +5,10 @@ import org.gnu.glpk.SWIGTYPE_p_double;
 import org.gnu.glpk.SWIGTYPE_p_int;
 import org.gnu.glpk.glp_prob;
 import org.gnu.glpk.glp_smcp;
-
+/*
+ * Answer to question.docx
+ * 
+ */
 public class LP {
 	// max z = 300 * yin + 160 * ynb + 360 * yib
 	//         + 220 * bin + 130 * bnb + 280 * bib

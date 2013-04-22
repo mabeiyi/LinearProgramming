@@ -5,7 +5,9 @@ import org.gnu.glpk.SWIGTYPE_p_double;
 import org.gnu.glpk.SWIGTYPE_p_int;
 import org.gnu.glpk.glp_prob;
 import org.gnu.glpk.glp_smcp;
-
+/*
+ * Sample file from library
+ */
 public class SampleLP {
     //	Minimize z = -.5 * x1 + .5 * x2 - x3 + 1
     //
