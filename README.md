@@ -1,7 +1,7 @@
 LinearProgramming
 =================
 
-Linear programming exercise using GUN LP tool
+Linear programming exercise using GLPK JAVA
 
 Programming exercise.
 
