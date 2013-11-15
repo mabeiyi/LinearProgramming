@@ -3,10 +3,6 @@ LinearProgramming
 
 Linear programming exercise using GLPK JAVA
 
-Programming exercise.
-
-See question from the .docx file.
-
 How to run the app.
 
 see instruction at http://glpk-java.sourceforge.net/gettingStarted.html
